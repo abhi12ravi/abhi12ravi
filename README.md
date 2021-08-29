@@ -15,10 +15,17 @@ Additionally, I have volunteered at Mozilla as a Mozilla Tech Speaker and have b
 
 Furthermore, I held the position of Sustainability Champion at SAP Labs for over 12 months, where I was a core member of the team responsible for successfully implementing the ban of single-use plastic at the 20-acre campus at SAP Labs. Sustainability is truly one of my driving passions.
 
+- 🔭 In-progress: Intelli-Wiki project, AI for education
+- 🌱 Deep Learning, Statistics of data science
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: The Earl of Sandwich, John Montagu, who lived in the 1700s, reportedly invented the sandwich so he wouldn’t have to leave his gambling table to eat.
+
 
 **Languages and Tools:** 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
 
 📈 my github stats
 
