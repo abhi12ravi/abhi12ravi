@@ -9,15 +9,18 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhi12ravi.abhi12ravi)
 
+Thanks for stopping by! 😊
+
 I am an MSc Data Science student at King's College, London and I like to work on projects that make a large impact. Previously, I've worked on large-scale projects such as SAP S/4 HANA and SAP Business API Hub. 
 
 Additionally, I have volunteered at Mozilla as a Mozilla Tech Speaker and have been invited to multiple international conferences to speak about web development, open-source technologies, and rust programming. I learned here about Open Policy & Advocacy that I adapt in all my open-source GitHub projects.
 
 Furthermore, I held the position of Sustainability Champion at SAP Labs for over 12 months, where I was a core member of the team responsible for successfully implementing the ban of single-use plastic at the 20-acre campus at SAP Labs. Sustainability is truly one of my driving passions.
 
-- 🔭 In-progress: Intelli-Wiki project, AI for education
-- 🌱 Deep Learning, Statistics of data science
+- 🔭 I’m currently working on Intelli-Wiki project, AI for education project
+- 🌱 I'm currently learning Deep Learning, and Statistics of data science among other things
 - 😄 Pronouns: he/him
+- 📫 How to reach me: abhi12ravi [at] gmail [dot] com 
 - ⚡ Fun fact: The Earl of Sandwich, John Montagu, who lived in the 1700s, reportedly invented the sandwich so he wouldn’t have to leave his gambling table to eat.
 
 
